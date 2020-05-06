@@ -22,3 +22,4 @@ Delete Server Stack - sh delete-stack.sh udacity-nanodegree-project2-server
 
 ## Architecture Diagram
 ![Alt text](Udagram.png)
+
